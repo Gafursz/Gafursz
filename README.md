@@ -1,8 +1,8 @@
-# Hi, I'm Gafurjon 👋
+# Hi, I'm Gafurjon 
 
 ### Software Engineer | Full-Stack Development | Data & AI
 
-I'm a software engineer with a background in **economics, finance, operations, and data analytics**.
+I'm a software engineer with a background in **economics, finance, operations management and data analytics**.
 
 I’m interested in building software that solves real-world business problems — from full-stack applications and APIs to data-driven tools and AI-powered solutions.
 
