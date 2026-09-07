@@ -1,43 +1,117 @@
-<p align="center">
-  <a href="https://github.com/Gafursz">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=634&text=Hello!%20%20I'm%20Gafur" alt="Hello!  I&#39;m Gafurjon Sharipov" />
-  </a>
-</p>
+# Hi, I'm Gafurjon 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=640&height=44&lines=Software%20Engineer%20%7C%20Full-Stack%20Developer" alt="Typing headlines" />
-</p>
+### Software Engineer | Full-Stack Development | Data & AI
 
-### 🚀 About Me
+I'm a software engineer with a background in **economics, finance, operations, and data analytics**.
 
-I'm a Software Engineer with a background in economics, finance, operations and data analytics.  
-I'm particularly interested in building software that solves real-world business and data problems.  
-Currently focused on full-stack development and building real world projects with AI
+I’m interested in building software that solves real-world business problems — from full-stack applications and APIs to data-driven tools and AI-powered solutions.
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Gafursz&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gafursz&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+Currently focused on becoming a stronger **full-stack software engineer** and building practical projects that combine software engineering, data, and AI.
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/Gafursz">Gafursz</a></i></p>
+
+## 🚀 What I'm Working On
+
+- 💻 Building full-stack web applications
+- ⚙️ Learning backend development and API design
+- 🗄️ Working with databases and data-driven applications
+- 🤖 Exploring AI-powered software and LLM integrations
+- 📊 Combining software engineering with my background in business and data
+- 🌱 Continuously improving my JavaScript and problem-solving skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+### Data & Databases
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+### Data & Analytics
+
+- Microsoft Excel
+- Power BI
+- Tableau
+- Stata
+
+---
+
+## 📌 Featured Projects
+
+> I'm currently building my portfolio. These projects will be added here as they become production-ready.
+
+### 💼 Business Management Platform
+
+A full-stack application designed to manage business operations, data, and reporting.
+
+**Planned stack:** React · Node.js · Express · PostgreSQL
+
+---
+
+### 📊 Business Analytics Dashboard
+
+A data-driven dashboard for visualizing business performance and helping users make better decisions.
+
+**Planned stack:** React · JavaScript · REST API · Data Visualization
+
+---
+
+### 🤖 AI Business Assistant
+
+An AI-powered application designed to help users analyze business information and interact with structured data using natural language.
+
+**Planned stack:** React · Python/FastAPI · PostgreSQL · LLM API
+
+---
+
+## 📚 Currently Learning
+
+- JavaScript
+- React
+- Node.js
+- REST APIs
+- PostgreSQL
+- Backend architecture
+- Authentication & authorization
+- Testing
+- Docker
+- AI/LLM application development
+- Software engineering best practices
+
+---
+
+## 🎯 My Direction
+
+I'm building toward a career as a **Software Engineer**, with a particular interest in:
+
+```text
+Software Engineering
+        │
+        ├── Full-Stack Development
+        │
+        ├── Backend & APIs
+        │
+        ├── Data-Driven Applications
+        │
+        └── AI-Powered Software
